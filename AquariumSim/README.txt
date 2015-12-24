@@ -1,4 +1,4 @@
-Assingment 2 - Jesus Gonzalez and Ryan Garcia
+Jesus Gonzalez
 This program is the implementation of the Aquarium simulation
 
 Program written in Python 2.7
